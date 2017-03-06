@@ -1,0 +1,2 @@
+/usr/bin/run-parts
+/bin/busybox.nosuid 50

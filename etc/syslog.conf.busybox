@@ -1,0 +1,9 @@
+# Configuration file for busybox's syslogd utility
+local0.info	/log/cuav-stm32.log
+local1.info	/log/cuav-solo.log
+local2.info	/log/cuav-wifi.log
+local3.info	/log/cuav-video.log
+
+local5.info	/log/cuav-temp.log
+
+kern,user.*	/log/kern.log

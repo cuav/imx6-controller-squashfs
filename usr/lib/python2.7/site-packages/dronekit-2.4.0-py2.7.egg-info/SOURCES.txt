@@ -1,0 +1,14 @@
+setup.py
+dronekit/__init__.py
+dronekit/lib.py
+dronekit/mavlink.py
+dronekit/util.py
+dronekit.egg-info/PKG-INFO
+dronekit.egg-info/SOURCES.txt
+dronekit.egg-info/dependency_links.txt
+dronekit.egg-info/requires.txt
+dronekit.egg-info/top_level.txt
+dronekit.egg-info/zip-safe
+dronekit/cloud/CloudClient.py
+dronekit/cloud/__init__.py
+dronekit/test/__init__.py

@@ -1,0 +1,13 @@
+arm-oe-linux-gnueabi
+imx6solo_3dr_artoo-.*-linux.*
+cortexa9hf_vfp_neon_mx6-.*-linux.*
+cortexa9hf_vfp_neon-.*-linux.*
+cortexa9hf_vfp-.*-linux.*
+armv7ahf_vfp_neon-.*-linux.*
+armv7ahf_vfp-.*-linux.*
+armv6hf_vfp-.*-linux.*
+armv5ehf_vfp-.*-linux.*
+armv5hf_vfp-.*-linux.*
+noarch-.*-linux.*
+any-.*-linux.*
+all-.*-linux.*
